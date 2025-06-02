@@ -35,19 +35,18 @@ In a world increasingly aware of hygiene and the need for **contactless interact
 
 ## 📸 Screenshot Preview
 
-![AirCalc Preview](your-screenshot.png)  
+![AirCalc Preview](Assets/screenshot.png)  
 *Pinch your fingers near buttons to input numbers and operations.*
 
 ---
 
 ## 🛠️ Installation & Usage
-
 1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/Aircalc.git
-   cd Aircalc
+```bash
+ git clone https://github.com/mekhushi/Aircalc.git
+ cd Aircalc
    ```
-2 . Install dependencies:
+2.Install dependencies:
    ```bash
   pip install -r requirements.txt
   ``` 
